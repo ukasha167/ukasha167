@@ -23,29 +23,27 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 
 - **C** — for pure suffering
 - **C++** — for engines, systems, and high-performance code  
-- **C#** — for tools, experiments, and games  
-- **Java** — for structured applications  
-- **Kotlin** — for modern Android work  
-- **SQL** — because data rules the world  
+- **Python** — for automation and quick tests
+- **Java** — for strict OOD structured applications  
+- **SQL** — because data...
 
 ---
 
 ##  Tools & Tech I work with
 
 - Visual Studio  
-- Android Studio  
+- Android Studio
+- IntelliJ
+- Github
 - Postman  
 - Linux  
-- IntelliJ  
 
 ### Extras
 - **Git**
 - **CMake**  
 - **Raylib**  
 - **SFML**  
-- **OpenGL**  
 - **Java Swing**  
-- **JavaFX**
 
 ---
 
