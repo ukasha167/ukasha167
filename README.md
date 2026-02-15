@@ -21,7 +21,7 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 
 ##  Languages I use
 
-- **C** — for pure suffering
+- **C** — for understanding low-level concepts (pure suffering)
 - **C++** — for engines, systems, and high-performance code  
 - **Python** — for automation and quick tests
 - **Java** — for strict OOD structured applications  
@@ -53,7 +53,8 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 - Advanced game programming techniques  
 - Deeper Data-Oriented Design  
 - Low-level performance principles  
-- Caching and memory behavior  
+- Caching and memory behavior
+- Custom memory allocators (Arenas)
 
 ---
 
