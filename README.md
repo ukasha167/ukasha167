@@ -1,4 +1,4 @@
-# Hi, I'm Ukasha 1 • 6 7
+# It's 1 . 6 7
 
 **Software Engineering student obsessed with performance, systems, and how things *really* work.**  
 I build projects to understand optimization, memory, data layout, and the invisible machinery underneath software.
@@ -10,14 +10,15 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 
 ###  What I focus on
 
--  **Game Programming** — engines, physics, rendering, and real-time systems  
--  **Data-Oriented Design** — structuring programs around memory, not objects  
--  **Simulations** — particles, collisions, constraints, and emergent behavior  
--  **App Development** — building usable, real-world applications  
--  **Low-level thinking** — cache locality, memory layouts, performance tradeoffs  
+-  **App Development** — building usable, real-world applications
+-  **Data-Oriented Design** — structuring programs around memory, not objects
+-  **Low-level thinking** — cache locality, memory layouts, performance tradeoffs
+-  **Game Programming** — engines, physics, rendering, and real-time systems
+-  **Simulations** — particles, collisions, constraints, and emergent behavior
 
 ###  Languages I use
 
+- **Dart** — for building apps
 - **C** — for understanding low-level concepts (pure suffering)
 - **C++** — for engines, systems, and high-performance code  
 - **Python** — for automation and quick tests
@@ -26,28 +27,32 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 
 ###  Tools & Tech I work with
 
-- Visual Studio  
 - Android Studio
+- Visual Studio
 - IntelliJ
-- Github
-- Postman  
-- Linux  
+- Postman
+- GitHub
+- Linux
+- Zed
 
 ### Extras
-- **Git**
-- **CMake**  
-- **Raylib**  
-- **SFML**  
-- **Java Swing**  
+
+- Git
+- CMake
+- Raylib
+- Flutter
+- SFML
+- Java Swing
 
 ###  What I’m currently learning
 
-- Physics-based simulations  
-- Advanced game programming techniques  
+- App Development
+- Caching and memory behavior
 - Deeper Data-Oriented Design  
 - Low-level performance principles  
-- Caching and memory behavior
-- Custom memory allocators (Arenas)
+- Physics-based simulations
+- Advanced game programming techniques  
+- Custom memory allocators
 
 ### Find me here
 
