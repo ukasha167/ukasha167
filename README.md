@@ -1,4 +1,4 @@
-# It's 1 . 6 7
+# Hi, It's... 1 . 6 7
 
 **Software Engineering student obsessed with performance, systems, and how things *really* work.**  
 I build projects to understand optimization, memory, data layout, and the invisible machinery underneath software.
@@ -10,7 +10,7 @@ how data moves, how CPUs think, how caches behave, and why programs are slow bef
 
 ###  What I focus on
 
--  **App Development** — building usable, real-world applications
+-  **App Development** — building scalable, usable, real-world applications
 -  **Data-Oriented Design** — structuring programs around memory, not objects
 -  **Low-level thinking** — cache locality, memory layouts, performance tradeoffs
 -  **Game Programming** — engines, physics, rendering, and real-time systems
