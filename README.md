@@ -1,4 +1,4 @@
-# ── UKASHA ANWAR // 1.67 ──────────────────
+# ── UKASHA ANWAR // 1.67 
 
 **SOFTWARE ENGINEER // SYSTEMS & MOBILE DEVELOPER**
 *Obsessed with execution efficiency, cache locality, and how things actually work under the hood.*
