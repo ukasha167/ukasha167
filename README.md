@@ -1,21 +1,20 @@
-# ── UKASHA ANWAR // 1.67 
+# ── UKASHA ANWAR // 1.67
 
 **SOFTWARE ENGINEER // SYSTEMS & MOBILE DEVELOPER**
 *Obsessed with execution efficiency, cache locality, and how things actually work under the hood.*
-
 
 > **DISCLAIMER:** If you explore my repos, expect low-level experiments, data-oriented architectures, and extreme optimization efforts. No over-abstracted corporate toys here.
 
 ---
 
-### CORE MANIFESTO
+### ■ CORE MANIFESTO
 
 *   **Mechanical Sympathy:** I care less about broad "framework-hopping" and more about hardware realities—how data moves across memory, how CPUs pipeline instructions, and why programs run slowly before I rewrite them to run fast.
 *   **Engineering Focus:** Balancing the design of fluid, high-fidelity mobile user experiences with ultra-optimized, engine-less low-level simulation systems.
 
 ---
 
-### PRODUCTION & EXPERIMENTAL LEDGER
+### ■ PRODUCTION & EXPERIMENTAL LEDGER
 
 #### ── SYSTEMS & GRAPHICS ENGINE EXPERIMENTS
 *   **Particle Simulation (C++)**
@@ -23,7 +22,7 @@
     *   *Architecture:* Written entirely on a single CPU thread utilizing strict **Data-Oriented Design (DOD)** patterns to maximize cache locality and eliminate pointer-chasing overhead.
 *   **Space Invaders (C)**
     *   *Payload:* Pure engine-less 3D rendering pipeline running at a stable 60 FPS.
-    *   *Math:* Implemented a custom discrete **Two-Phase Collision Pipeline** featuring Broad-phase AABB pruning coupled with Narrow-phase Squared Distance verification
+    *   *Math:* Implemented a custom discrete **Two-Phase Collision Pipeline** featuring Broad-phase AABB pruning coupled with Narrow-phase Squared Distance verification.
 
 #### ── HIGH-CONTRAST MOBILE APPLICATIONS
 *   **CRAVE. (React Native)**
@@ -35,7 +34,7 @@
 
 ---
 
-### THE TECHNICAL ARSENAL
+### ■ THE TECHNICAL ARSENAL
 
 | Category | Technologies |
 | :--- | :--- |
@@ -46,15 +45,29 @@
 
 ---
 
-### HARDWARE RUNTIMES & METRICS
+### ■ ACTIVE RESEARCH & CORE FOCUS
 
-
-> [Current Research Vectors]: Custom Linear Allocators // SIMD Intrinsics // Advanced Collision Math
+*   **App Development:** Architecting fluid cross-platform runtimes and robust modular interfaces.
+*   **Caching and Memory Behavior:** Profiling structural layout patterns to achieve optimal CPU cache alignment.
+*   **Deeper Data-Oriented Design:** Transitioning away from classical OOP bloat towards pure, data-driven systems.
+*   **Low-Level Performance Principles:** Investigating compilation pipelines, micro-optimizations, and mechanical constraints.
+*   **Physics-Based Simulations:** Building real-time, deterministic physical bodies, kinematics, and constraints.
+*   **Advanced Game Programming Techniques:** Designing custom, lightweight rendering loops, physics, and asset structures from scratch.
+*   **Custom Memory Allocators:** Dropping standard generic heap allocations for performance-critical linear and arena models.
 
 ---
 
-### COMM-LINK
+### ■ METRICS & TELEMETRIC TRACKING
 
-* **Matrix / Identity:** [linkedin.com/in/ukasha167](https://www.linkedin.com/in/ukasha167/)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ukasha167&theme=dark&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</p>
 
-* **Secure Line:** ukashaanwar774@gmail.com
+---
+
+### ■ COMM-LINK
+
+*   **Matrix / Identity:** [linkedin.com/in/ukasha167](https://www.linkedin.com/in/ukasha167/)
+*   **Secure Line:** ukashaanwar774@gmail.com
