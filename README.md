@@ -59,11 +59,26 @@
 
 ### ■ METRICS & TELEMETRIC TRACKING
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ukasha167&theme=dark&hide_border=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
+</p> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+ <a href="https://github.com/ukasha167">
+   <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ukasha167&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+ </a>
+ <a href="https://github.com/ukasha167">
+   <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ukasha167&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+ </a>
+ <br/>
+ <a href="https://github.com/ukasha167">
+   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ukasha167&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+ </a>
+</div>
 
 ---
 
