@@ -1,88 +1,69 @@
-# ── UKASHA ANWAR // 1.67
+# ── UKASHA ANWAR 
+**Software Engineer // Systems & Mobile Developer**
 
-**SOFTWARE ENGINEER // SYSTEMS & MOBILE DEVELOPER**
-*Obsessed with execution efficiency, cache locality, and how things actually work under the hood.*
+*Driven by execution efficiency, cache locality, and a deep interest in how systems operate under the hood. Currently on the path toward becoming a Systems Architect.*
 
-> **DISCLAIMER:** If you explore my repos, expect low-level experiments, data-oriented architectures, and extreme optimization efforts. No over-abstracted corporate toys here.
+> **Hello! 👋** While I build fluid, high-fidelity mobile experiences, my core passion lies in the low-level details. You'll find a mix of data-oriented experiments, engine-less simulations, and heavily optimized codebases here.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ■ CORE MANIFESTO
-
-*   **Mechanical Sympathy:** I care less about broad "framework-hopping" and more about hardware realities—how data moves across memory, how CPUs pipeline instructions, and why programs run slowly before I rewrite them to run fast.
-*   **Engineering Focus:** Balancing the design of fluid, high-fidelity mobile user experiences with ultra-optimized, engine-less low-level simulation systems.
-
----
-
-### ■ PRODUCTION & EXPERIMENTAL LEDGER
-
-#### ── SYSTEMS & GRAPHICS ENGINE EXPERIMENTS
-*   **Particle Simulation (C++)**
-    *   *Payload:* Real-time physics engine handling over 17,000+ interactive particles at a locked 60 FPS.
-    *   *Architecture:* Written entirely on a single CPU thread utilizing strict **Data-Oriented Design (DOD)** patterns to maximize cache locality and eliminate pointer-chasing overhead.
-*   **Space Invaders (C)**
-    *   *Payload:* Pure engine-less 3D rendering pipeline running at a stable 60 FPS.
-    *   *Math:* Implemented a custom discrete **Two-Phase Collision Pipeline** featuring Broad-phase AABB pruning coupled with Narrow-phase Squared Distance verification.
-
-#### ── HIGH-CONTRAST MOBILE APPLICATIONS
-*   **CRAVE. (React Native)**
-    *   *Payload:* Full-stack food ordering application utilizing a heavy-border, high-contrast neo-brutalist UI layout.
-    *   *Infrastructure:* Backed by Supabase for real-time relational state management, secure auth schemas, and transactional ledgers deployed directly onto Render.
-*   **Bold Weather (Flutter)**
-    *   *Payload:* High-fidelity minimal weather tracking platform with native-style controls and decoupled MVC architecture.
-    *   *Status:* Fully compiled, signed, and published live to the Google Play Store.
-
----
-
-### ■ THE TECHNICAL ARSENAL
+### THE TECHNICAL ARSENAL
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white) |
-| **Frameworks & Backends** | ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white) |
-| **Graphics & Tools** | ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=googlecommonls&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-000000?style=flat-square&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) ![Zed](https://img.shields.io/badge/Zed_Editor-000000?style=flat-square&logo=zed&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) |
-| **Deployment** | ![Google Play](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=googleplay&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)|
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) |
+| **Architecture** | ![REST APIs](https://img.shields.io/badge/REST_APIs-4B32C3?style=flat&logoColor=white) ![State Management](https://img.shields.io/badge/State_Management-8A2BE2?style=flat&logoColor=white) ![Modular Design](https://img.shields.io/badge/Modular_Design-E97627?style=flat&logoColor=white) |
+| **Tools & Cloud** | ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat&logo=google-play&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ■ ACTIVE RESEARCH & CORE FOCUS
+### DEVELOPMENT LEDGER
+
+#### Current Projects
+*   **CRAVE. (React Native / Express.js):** Full-stack food ordering application backed by PostgreSQL. Features a heavy-border, high-contrast neo-brutalist UI layout, JWT authentication schemas, and atomic SQL transactions.
+*   **DRAFT:** Personal book library application. *[Placeholder]*
+*   **Bold Weather (Flutter):** High-fidelity, editorial UI/UX weather tracking platform fetching real-time meteorological data. Fully compiled, signed, and published live to the Google Play Store.
+*   **MomentLens (Flutter - Planned):** Upcoming Final Year Project. Photography application architected for asynchronous state management, resumable uploads via the TUS protocol, and local database retry queues.
+
+#### Notable Projects & Engine Experiments
+*   **Particle Simulation (C++):** Real-time physics engine handling 17,000+ interactive particles at a locked 60 FPS. Written entirely on a single CPU thread utilizing strict Data-Oriented Design (DOD) to maximize cache locality.
+*   **Blackhole Sim:** *Currently in-progress.* *[Placeholder]*
+*   **Space Invaders (C):** Pure engine-less 3D rendering pipeline running at 60 FPS. Implements a custom discrete Two-Phase Collision Pipeline with Broad-phase AABB pruning.
+*   **Flappy Bird:** *[Placeholder]*
+*   **Chrome Dino Game:** *[Placeholder]*
+*   **Pong:** *[Placeholder]*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ACTIVELY WORKING
 
 *   **App Development:** Architecting fluid cross-platform runtimes and robust modular interfaces.
-*   **Caching and Memory Behavior:** Profiling structural layout patterns to achieve optimal CPU cache alignment.
-*   **Deeper Data-Oriented Design:** Transitioning away from classical OOP bloat towards pure, data-driven systems.
-*   **Low-Level Performance Principles:** Investigating compilation pipelines, micro-optimizations, and mechanical constraints.
-*   **Physics-Based Simulations:** Building real-time, deterministic physical bodies, kinematics, and constraints.
-*   **Advanced Game Programming Techniques:** Designing custom, lightweight rendering loops, physics, and asset structures from scratch.
-*   **Custom Memory Allocators:** Dropping standard generic heap allocations for performance-critical linear and arena models.
+*   **Data-Oriented Design & Memory:** Transitioning from classical OOP bloat to pure, data-driven systems, profiling structural layout patterns for optimal CPU cache alignment.
+*   **Low-Level Performance:** Investigating compilation pipelines, custom memory allocators (linear and arena models), and mechanical constraints.
+*   **Certifications:** Currently preparing for the GitHub Foundations Certification.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ■ METRICS & TELEMETRIC TRACKING
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=ukasha167&theme=dark&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukasha167&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### METRICS & TELEMETRY
 
 <div align="center">
- <a href="https://github.com/ukasha167">
-   <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ukasha167&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
- </a>
- <a href="https://github.com/ukasha167">
-   <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ukasha167&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
- </a>
- <br/>
- <a href="https://github.com/ukasha167">
-   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ukasha167&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
- </a>
+  <a href="https://github.com/ukasha167">
+    <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ukasha167&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+  </a>
+  <a href="https://github.com/ukasha167">
+    <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ukasha167&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/ukasha167">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ukasha167&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+  </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ■ COMM-LINK
+### FIND ME HERE
 
-*   **Matrix / Identity:** [linkedin.com/in/ukasha167](https://www.linkedin.com/in/ukasha167/)
+*   **Identity:** [linkedin.com/in/ukasha167](https://www.linkedin.com/in/ukasha167/)
 *   **Secure Line:** ukashaanwar774@gmail.com
