@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### THE TECHNICAL ARSENAL
+### TECH STACK
 
 | Category | Technologies |
 | :--- | :--- |
@@ -22,31 +22,28 @@
 ### DEVELOPMENT LEDGER
 
 #### Current Projects
-*   **CRAVE. (React Native / Express.js):** Full-stack food ordering application backed by PostgreSQL. Features a heavy-border, high-contrast neo-brutalist UI layout, JWT authentication schemas, and atomic SQL transactions.
-*   **DRAFT:** Personal book library application. *[Placeholder]*
-*   **Bold Weather (Flutter):** High-fidelity, editorial UI/UX weather tracking platform fetching real-time meteorological data. Fully compiled, signed, and published live to the Google Play Store.
-*   **MomentLens (Flutter - Planned):** Upcoming Final Year Project. Photography application architected for asynchronous state management, resumable uploads via the TUS protocol, and local database retry queues.
+* **DRAFT (Flutter):** Offline-first, privacy-focused personal book catalog. Features a local-first architecture, immediate local search indexing, and asynchronous external API syncing for automatic metadata and cover art fetching.
+* **CAST (Flutter):** High-fidelity, minimalist weather application. Built with a non-blocking concurrent network pipeline and mathematical vector graphics via custom canvas painters. Live on the Google Play Store.
+* **CRAVE (React Native):** Full-stack food ordering app with a heavy-border neo-brutalist UI. Backed by PostgreSQL and secured with stateful JWTs and atomic SQL transactions to eliminate checkout race conditions.
 
-#### Notable Projects & Engine Experiments
-*   **Particle Simulation (C++):** Real-time physics engine handling 17,000+ interactive particles at a locked 60 FPS. Written entirely on a single CPU thread utilizing strict Data-Oriented Design (DOD) to maximize cache locality.
-*   **Blackhole Sim:** *Currently in-progress.* *[Placeholder]*
-*   **Space Invaders (C):** Pure engine-less 3D rendering pipeline running at 60 FPS. Implements a custom discrete Two-Phase Collision Pipeline with Broad-phase AABB pruning.
-*   **Flappy Bird:** *[Placeholder]*
-*   **Chrome Dino Game:** *[Placeholder]*
-*   **Pong:** *[Placeholder]*
+#### Other Notable Game Projects
+* **Particle Simulation (C++ / Raylib):** Real-time physics engine handling 17,000+ interactive particles at 60 FPS on a single CPU thread. Uses strict Data-Oriented Design (DOD) to guarantee optimal cache locality.
+* **Space Invaders (C / Raylib):** Pure engine-less 3D rendering pipeline locked at 60 FPS. Implements a custom discrete Two-Phase Collision Pipeline utilizing Broad-phase AABB pruning.
+* **Flappy Bird (C++ / Raylib):** Engine-less clone with a deterministic physics solver decoupled from a stateless renderer. Implements active boundary tracking for O(1) collision complexity and bitwise math to drop division overhead.
+* **Chrome Dino Game (C++ / Raylib):** Lightweight endless runner exploring single-sprite asset pipelines, frame-state animation logic, and tight, low-overhead loop execution.
+* **Pong (C++ / Raylib):** Sprite-less arcade remake rendered completely with primitive geometry shapes. Built as a baseline playground for core frame timing, render loops, and boundary collision checks.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ACTIVELY WORKING
+### ACTIVELY IMPROVING
 
 *   **App Development:** Architecting fluid cross-platform runtimes and robust modular interfaces.
 *   **Data-Oriented Design & Memory:** Transitioning from classical OOP bloat to pure, data-driven systems, profiling structural layout patterns for optimal CPU cache alignment.
 *   **Low-Level Performance:** Investigating compilation pipelines, custom memory allocators (linear and arena models), and mechanical constraints.
-*   **Certifications:** Currently preparing for the GitHub Foundations Certification.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### METRICS & TELEMETRY
+### TELEMETRY
 
 <div align="center">
   <a href="https://github.com/ukasha167">
@@ -63,7 +60,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### FIND ME HERE
+### FIND ME
 
 *   **Identity:** [linkedin.com/in/ukasha167](https://www.linkedin.com/in/ukasha167/)
 *   **Secure Line:** ukashaanwar774@gmail.com
