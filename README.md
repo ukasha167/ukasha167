@@ -3,7 +3,7 @@
 
 *Driven by execution efficiency, cache locality, and a deep interest in how systems operate under the hood. Currently on the path toward becoming a Systems Architect.*
 
-> **Hello! 👋** While I build fluid, high-fidelity mobile experiences, my core passion lies in the low-level details. You'll find a mix of data-oriented experiments, engine-less simulations, and heavily optimized codebases here.
+> **Hi!** While I build fluid, high-fidelity mobile experiences, my core passion lies in the low-level details. You'll find a mix of data-oriented experiments, engine-less simulations, and heavily optimized codebases here.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -19,14 +19,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### DEVELOPMENT LEDGER
+### PROJECTS
 
 #### Current Projects
 * **DRAFT (Flutter):** Offline-first, privacy-focused personal book catalog. Features a local-first architecture, immediate local search indexing, and asynchronous external API syncing for automatic metadata and cover art fetching.
 * **CAST (Flutter):** High-fidelity, minimalist weather application. Built with a non-blocking concurrent network pipeline and mathematical vector graphics via custom canvas painters. Live on the Google Play Store.
 * **CRAVE (React Native):** Full-stack food ordering app with a heavy-border neo-brutalist UI. Backed by PostgreSQL and secured with stateful JWTs and atomic SQL transactions to eliminate checkout race conditions.
 
-#### Other Notable Game Projects
+#### Hobby Projects
 * **Particle Simulation (C++ / Raylib):** Real-time physics engine handling 17,000+ interactive particles at 60 FPS on a single CPU thread. Uses strict Data-Oriented Design (DOD) to guarantee optimal cache locality.
 * **Space Invaders (C / Raylib):** Pure engine-less 3D rendering pipeline locked at 60 FPS. Implements a custom discrete Two-Phase Collision Pipeline utilizing Broad-phase AABB pruning.
 * **Flappy Bird (C++ / Raylib):** Engine-less clone with a deterministic physics solver decoupled from a stateless renderer. Implements active boundary tracking for O(1) collision complexity and bitwise math to drop division overhead.
