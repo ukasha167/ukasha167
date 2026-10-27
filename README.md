@@ -38,7 +38,7 @@ every frame, so each particle only checks the particles next to it.
 Synthwave 3D shooter in C. The neon glow comes from alpha-gradient vertices<br>
 drawn with additive blending, with no bloom pass.
 
-**TRACE** &nbsp;·&nbsp; <samp>react native, skia</samp><br>
+**[TRACE](https://github.com/ukasha167/TRACE)** &nbsp;·&nbsp; <samp>react native, skia</samp><br>
 Offline astronomy app. Give it a date and a place and it draws that night's<br>
 sky, with 8,400+ real stars and 89 constellations that follow the phone's<br>
 gyroscope at 60 FPS. Private for now, still in progress.
