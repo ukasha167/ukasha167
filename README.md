@@ -39,9 +39,10 @@ Synthwave 3D shooter in C. The neon glow comes from alpha-gradient vertices<br>
 drawn with additive blending, with no bloom pass.
 
 **[TRACE](https://github.com/ukasha167/TRACE)** &nbsp;·&nbsp; <samp>react native, skia</samp><br>
-Offline astronomy app. Give it a date and a place and it draws that night's<br>
-sky, with 8,400+ real stars and 89 constellations that follow the phone's<br>
-gyroscope at 60 FPS. Private for now, still in progress.
+Offline astronomy app. Give it a date and a place and it shows that night's<br>
+moon at its real phase and tilt, how rare it was, and the years it comes back.<br>
+The moon is lit per pixel in a shader, and the sky view draws 6,331 stars and<br>
+25 constellations. 253 unit tests, 189 of them on the astronomy. APK on GitHub.
 
 <!-- TODO: link the Play Store listing in the CAST line -->
 **[CAST](https://github.com/ukasha167/CAST)** &nbsp;·&nbsp; <samp>flutter</samp><br>
