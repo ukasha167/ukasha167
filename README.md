@@ -47,7 +47,7 @@ Real-time Kerr black hole ray tracer, 55 fps at 2560 x 1600 on an M1 Air.<br>
 It traces light once into a cached lens map, then shades each frame from it.<br>
 55 built-in tests check the physics against exact formulas.
 
-**[Particle-Simulation](https://github.com/ukasha167/Particle-Simulation)** &nbsp;·&nbsp; <samp>c++23, raylib</samp><br>
+**[particle-simulation](https://github.com/ukasha167/particle-simulation)** &nbsp;·&nbsp; <samp>c++23, raylib</samp><br>
 100,000 particles on 4 CPU threads of an M1 Air, no GPU compute: 14 ms a step.<br>
 Data sits in flat arrays. A uniform grid and a counting sort find neighbours<br>
 every frame, so each particle only checks the particles next to it.
